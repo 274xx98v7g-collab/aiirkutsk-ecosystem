@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AIIrkutsk — экосистема ИИ-агентов",
-  description: "Интерактивная демонстрация архитектуры ИИ-агентов AIIrkutsk для бизнеса.",
+  title: "AIIRK — неоновая экосистема ИИ-агентов",
+  description: "Интерактивная демонстрация экосистемы ИИ-агентов AIIRK в фирменном неоновом стиле.",
   other: {
     "codex-preview": "development",
   },
